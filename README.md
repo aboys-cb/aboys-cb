@@ -18,16 +18,6 @@
 - **领域**: 第一性原理计算 | 机器学习
 - **正在学习**: 机器学习势
 
-### 精选项目
-- **[NepTrainKit](https://github.com/aboys-cb/NepTrainKit)**  
-  简介：NEP训练集可视化工具 
-  技术栈： Python  
-- **[NepTrain](https://github.com/aboys-cb/NepTrain)**  
-  简介：NEP全自动训练工具  
-  技术栈：Python
-- **[VaspTool](https://github.com/aboys-cb/VaspTool)**  
-  简介：VasoTool批量脚本。以及一些画图、使用脚本  
-  技术栈：Python
 ### 统计 & 动态
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aboys-cb&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboys-cb&layout=compact&theme=radical)
