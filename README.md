@@ -3,7 +3,7 @@
  
 [![Email](https://img.shields.io/badge/Email-c1747193328@163.com-blue?logo=gmail&link=mailto:example@email.com)](mailto:joeysiwei@gmail.com)
 [![QQ](https://img.shields.io/badge/QQ-1747193328-blue?logo=tencent-qq)](https://qm.qq.com/q/rKdCS3q3Ye)
-![WeChat](https://img.shields.io/badge/WeChat-Master_66688-green?logo=wechat)
+![WeChat](https://img.shields.io/badge/WeChat-Master__66688-green?logo=wechat)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 关于我
