@@ -19,8 +19,8 @@
 ### 统计 & 动态
 <div align="center">
   
-![Zihan's Stats](https://github-readme-stats.vercel.app/api?username=zhyan0603&show_icons=true&theme=light&hide_border=true&count_private=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhyan0603&theme=light&hide_border=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
+![Stats](https://github-readme-stats.vercel.app/api?username=aboys-cb&show_icons=true&theme=light&hide_border=true&count_private=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboys-cb&theme=light&hide_border=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
 
 </div>
  
